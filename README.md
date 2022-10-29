@@ -1,1 +1,1 @@
-# edu_public_website
+# Informatik
